@@ -1,0 +1,8 @@
+x=sdfsdf;
+
+
+print(x);print("\n");
+
+print(strtonum(x));
+
+

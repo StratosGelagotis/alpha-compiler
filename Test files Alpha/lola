@@ -1,0 +1,3 @@
+t=[23,435,546];
+print(t);
+print(tablecopy(t));

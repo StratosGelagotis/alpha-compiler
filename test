@@ -1,0 +1,34 @@
+a = input();
+
+for(i=0;i<10;i++){
+print(sin(a));
+}
+/*function fib(x){
+	
+	if(x==1 ){
+       return 1;           
+     }
+	//print("gamw to kadili");	
+  return (  fib(x) + fib(x-1) );
+	//return 99;
+}
+
+function add(x,y){return x+y;}
+
+function foo(){
+
+i=add(100,100);
+
+//print(i);
+
+return i;
+
+}
+
+print(fib(5));
+
+print(foo());
+
+//print(noname());
+
+*/

@@ -1,0 +1,44 @@
+function fib( x ){
+
+  if(x==1){return 1;}
+
+  else{
+   
+    return (fib(x-1)+fib(x-2));
+
+      }
+
+}
+//ll=input();
+//print(fib(ll));
+
+y =3 ; 
+
+function foo(){
+
+   function in(){
+	x= 5+ ::y ;
+       return x;
+
+    }
+
+return (fib(5));
+
+}
+
+function add(x,y){
+
+print("poios arg 8elete na deite? ");
+b = input();
+
+count = argument(b);
+
+return count;
+}
+
+
+a=input();
+b=input();
+
+print(add(a,b));
+
